@@ -1,4 +1,4 @@
-**Stanislav Stakhovych** is a Senior Lecturer at the Department of Marketing, Monash University. He obtained his PhD degree in 2010 from University of Groningen, The Netherlands. His research interests include Marketing Models Building, Multivariate Data Analysis, Marketing Dynamics, Marketing Strategy, Spatial Modelling, and Bayesian Econometrics.
+I am a Senior Lecturer at the Department of Marketing, Monash Business Scool. I obtained my PhD degree in Marketing in 2010 from the University of Groningen, The Netherlands. My research interests include Marketing Models Building, Multivariate Data Analysis, Marketing Dynamics, Marketing Strategy, Spatial Modelling, Bayesian Econometrics.
 
 *Personal profile at Monash University:*
 https://research.monash.edu/en/persons/stanislav-stakhovych
